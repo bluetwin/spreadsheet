@@ -9,7 +9,7 @@ TODO: Write a description here
    ```yaml
    dependencies:
      spreadsheet:
-       github: your-github-user/spreadsheet
+       github: bluetwin/spreadsheet
    ```
 
 2. Run `shards install`
@@ -28,7 +28,7 @@ TODO: Write development instructions here
 
 ## Contributing
 
-1. Fork it (<https://github.com/your-github-user/spreadsheet/fork>)
+1. Fork it (<https://github.com/bluetwin/spreadsheet/fork>)
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
@@ -36,4 +36,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [bsislow-or](https://github.com/your-github-user) - creator and maintainer
+- [bluetwin](https://github.com/bluetwin) - creator and maintainer
