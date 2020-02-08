@@ -1,0 +1,9 @@
+name: spreadsheet
+version: 0.1.0
+
+authors:
+  - bsislow-or <brandon.sislow@outreach.io>
+
+crystal: 0.32.1
+
+license: MIT
